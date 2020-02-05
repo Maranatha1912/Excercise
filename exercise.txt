@@ -1,0 +1,4 @@
+ How To learn git/github:
+  - Git Bush
+  - Git UI
+  - Etc.
